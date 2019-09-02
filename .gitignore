@@ -16,6 +16,10 @@
 .env.test.local
 .env.production.local
 
+*.sublime-project
+*.sublime-workspace
+
+# pkg manager logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
