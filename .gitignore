@@ -9,9 +9,6 @@
 # production
 # /build
 
-# workspace
-*.code-workspace
-
 # misc
 .DS_Store
 .env.local
