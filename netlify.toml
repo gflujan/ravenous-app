@@ -1,0 +1,10 @@
+[build]
+base = "/"
+command = "echo 'no build command is needed'"
+
+[[redirects]]
+from = "https://ravenous.netlify.app/*"
+to = "https://ravenous.gflujan.com/:splat"
+status = 301
+force = true
+
